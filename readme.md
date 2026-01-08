@@ -5,7 +5,7 @@ This project demonstrates how **QR-based, bank-to-bank instant payments** work, 
 
 ---
 
-## 🚀 Features
+## Features
 
 - **QR Code Payments**
 
@@ -33,7 +33,7 @@ This project demonstrates how **QR-based, bank-to-bank instant payments** work, 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Backend:** Go (Golang) – REST API / Payment logic
 - **Database:** PostgreSQL (ledger, users, merchants)
@@ -44,7 +44,7 @@ This project demonstrates how **QR-based, bank-to-bank instant payments** work, 
 
 ---
 
-## 🔄 Payment Flow
+## Payment Flow
 
 1. Merchant generates a payment QR code with:
    - Merchant ID
@@ -60,7 +60,7 @@ This project demonstrates how **QR-based, bank-to-bank instant payments** work, 
 
 ---
 
-## 💡 Learning Goals
+## Learning Goals
 
 This project is designed to **teach and showcase**:
 
@@ -72,7 +72,7 @@ This project is designed to **teach and showcase**:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This is a **simulation only**.
 
